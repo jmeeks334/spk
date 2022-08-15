@@ -20,6 +20,7 @@ GPIO.output(all_chan, 1)
 conn = sqlite3.connect('/var/www/html/webapp/sprinklers.db')
 c = conn.cursor()
 
+#initialize all valves to closed
 vlvst = [0,0,0,0,0,0,0,0]
 
 def morn():
