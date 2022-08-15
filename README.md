@@ -18,4 +18,4 @@ I dug all the piping for the 8 zones by hand.  Digging gave my brain a break fro
 
 I hope you like my project.  Here are a few images of the dirty work!  
 
-<img src="pics/dig.jpg" width=250 alt="dig"> <img src="pics/hdr.jpg" width=250 alt="header"> <img src="pics/dog.jpg" width=250 alt="dog">
+<img src="pics/dig.jpg" width=250 alt="dig"> <img src="pics/hdr.jpg" width=250 alt="header"> <img src="pics/rPi.jpg" width=250 alt="rPi"> <img src="pics/dog.jpg" width=250 alt="dog">
