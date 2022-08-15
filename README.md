@@ -18,4 +18,4 @@ I dug all the piping for the 8 zones by hand.  That part gave my brain a break f
 
 Here are a few images of the dirty work!
 
-![alt text](pics/dig.jpg)
+<img src="pics/dig.jpg" width=250 alt="dig"> <img src="pics/hdr.jpg" width=250 alt="header"> <img src="pics/dog.jpg" width=250 alt="dog">
