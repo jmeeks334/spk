@@ -8,6 +8,7 @@ import RPi.GPIO as GPIO
 app = Flask(__name__)
 
 
+#main page
 @app.route('/')
 def index():
     conn = sqlite3.connect('/var/www/html/webapp/sprinklers.db')
@@ -43,6 +44,7 @@ def updt():
         mainst = "Off"
     return render_template('index.html', mainst=mainst, updt=updt)
     
+#manual control of single zone
 @app.route('/man', methods=['POST', 'GET'])
 def indx():
     conn = sqlite3.connect('/var/www/html/webapp/sprinklers.db')
