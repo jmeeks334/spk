@@ -5,7 +5,7 @@ import sqlite3
 
 all_chan = (1,2,3,4,5,6,7,8)
 
-"""seconds to turn on zones""" 
+"""number of seconds to turn on sprinkler zones""" 
 stdtime = 1200
 aftime = 900
 
