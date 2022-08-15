@@ -14,6 +14,8 @@ I programmed a few safety features into the system based on trial-and-error.  Fo
 
 I'm using a SQLlite database to store values to determine which zone to use and whether or not the 'all zones' morning sequence is set to on or off.
 
-I hope you like my project.  Here are a few images of the dirty work!
+I dug all the piping for the 8 zones by hand.  That part gave my brain a break from the coding. I hope you like my project.  
 
+Here are a few images of the dirty work!
 
+![alt text](pics/dig.jpg)
