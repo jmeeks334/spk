@@ -12,7 +12,7 @@ Currently I can either set all zones to automatically come on in sequence for a 
 
 I programmed a few safety features into the system based on trial-and-error.  For instance, one time I started a zone manually and forgot about it until the next day.  Now if I start a zone manually, it will automatically shut itself off after 45 minutes.  I also set a delay time between the stopping of one zone and starting of the next during the  to minimize water hammer in the pipes.  Lastly, only one zone can operate at a time.  I implemented this by checking that the status if off (0) before allowing any zone to start.  This is to prevent excessive flow through the system which is hard on the meter and pipes.  
 
-I'm using a SQLlite database to store values to determine which zone to use and whether or not the 'all zones' morning sequence is set to on or off.
+I'm using a SQLite database to store values to determine which zone to use and whether or not the 'all zones' morning sequence is set to on or off.
 
 I dug all the piping for the 8 zones by hand.  Digging gave my brain a break from the hard work of coding.   
 
